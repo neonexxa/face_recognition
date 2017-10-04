@@ -1,0 +1,9 @@
+mkdir pening
+mkvirtualenv pening
+cd pening/bin/
+source activate
+pip install numpy
+pip install opencv-python 
+pip install pillow
+pip install opencv-contrib-python
+
